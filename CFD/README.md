@@ -1,3 +1,3 @@
 # CFD
 ## Results
-![](n2-test-nozzle.jpg)
+![](n2-test-nozzle.JPG)
