@@ -1,6 +1,6 @@
 # CFD
 ## Results
-![](nozzle velocity ansys simulation.png)
+![](nozzle_velocity_ansys_simulation.png)
 
-![](nozzle pressure ansys simulation.png)
+![](nozzle_pressure_ansys_simulation.png)
 
